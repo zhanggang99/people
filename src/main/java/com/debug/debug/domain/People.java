@@ -50,4 +50,7 @@ public class People {
                 ", age=" + age +
                 '}';
     }
+
+    public People() {
+    }
 }
